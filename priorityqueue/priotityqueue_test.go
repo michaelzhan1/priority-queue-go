@@ -5,7 +5,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/michaelzhan1/priorityqueue/priorityqueue"
+	"github.com/michaelzhan1/priority-queue-go/priorityqueue"
 )
 
 func TestNewPriorityQueue(t *testing.T) {
